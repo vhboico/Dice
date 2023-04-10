@@ -3,7 +3,7 @@
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/resuls/dado_imagem1.png" width="260">&emsp;<img src="/results/dado_image2.png" width="260">&emsp;<img src="/result/dado_imagem3.png" width="260">
+<img src="/results/dado_imagem1.png" width="260">&emsp;<img src="/results/dado_imagem2.png" width="260">&emsp;<img src="/results/dado_imagem3.png" width="260">
 
 ## Tecnologias
 * Kotlin
